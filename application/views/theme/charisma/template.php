@@ -6,3 +6,4 @@
     <body>
         <?PHP $this -> load -> view(THEME.'topbar') ?>
     </body>
+</html>
