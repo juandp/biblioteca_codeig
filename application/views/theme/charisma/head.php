@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title><?= $titulo?></title>
+<title><?PHP $titulo = 'hola';echo $titulo?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Biblioteca Juan">
 <meta name="author" content="Juan Diego Perea">
